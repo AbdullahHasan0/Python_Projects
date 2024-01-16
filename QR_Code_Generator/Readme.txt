@@ -17,10 +17,9 @@ pip install qrcode[pil]
 ##Usage
 
 Clone the repository:
-git clone https://github.com/AbdullahHasan0/qr-code-generator.git
-
+git clone https://github.com/AbdullahHasan0/Python_Projects
 Navigate to the project directory:
-cd qr-code-generator
+cd QR_Code_Generator
 
 Run the script:
 python QR_Code_Generator.py
